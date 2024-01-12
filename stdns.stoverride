@@ -1,0 +1,10 @@
+name: 仅使用 自定义 无污染 DNS
+dns:
+  # 将会完整覆盖原有 default-nameserver
+  default-nameserver: #!replace
+    - system
+    - 223.5.5.5
+  # 将会完整覆盖原有 nameserver
+  nameserver: #!replace
+    - https://1.15.50.48/verse
+    - https://doh.apad.pro/dns-query
