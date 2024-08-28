@@ -8,3 +8,4 @@ dns:
   nameserver: #!replace
     - https://1.15.50.48/verse
     - https://doh.apad.pro/dns-query
+    - https://60.205.14.96/Eaf9nie7quee/endusers
