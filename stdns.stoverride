@@ -6,5 +6,8 @@ dns:
     - 223.5.5.5
   # 将会完整覆盖原有 nameserver
   nameserver: #!replace
-    - https://doh.apad.pro/dns-query
     - https://60.205.14.96/Eaf9nie7quee/endusers
+    - https://139.224.50.204/Eaf9nie7quee/endusers
+    - https://106.75.213.2:58443/q1yWgLhSdn/clean
+    - https://pz.fyi/dns-query
+
