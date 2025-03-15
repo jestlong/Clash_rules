@@ -6,6 +6,5 @@ dns:
     - 223.5.5.5
   # 将会完整覆盖原有 nameserver
   nameserver: #!replace
-    - https://1.15.50.48/verse
     - https://doh.apad.pro/dns-query
     - https://60.205.14.96/Eaf9nie7quee/endusers
